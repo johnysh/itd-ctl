@@ -50,5 +50,3 @@ Remove the core configuration for a specify pid or process name
 
 Get hardware feedback interface table and state
         itd-ctl -h
-
-
