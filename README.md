@@ -6,6 +6,7 @@ so should upgrade some libs
 command as below:
 
 sudo apt install git
+
 sudo apt install aptitude
 sudo aptitude install gcc-multilib                                                                                                                                          
 sudo aptitude install libc6-dev 
