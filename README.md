@@ -1,6 +1,6 @@
 # itd-ctl
-Reference taskset to do secondary development for ITD feature 
-this tool is developed in Ubuntu22.04 , default kernel is 5.15.0-43-generic
+Reference taskset to do secondary development for ITD feature. 
+This tool is developed in Ubuntu22.04 , default kernel is 5.15.0-43-generic,
 so should upgrade some libs 
 
 command as below:
