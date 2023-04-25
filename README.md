@@ -23,6 +23,7 @@ Options:
         -h, --hfi table         get hardware feedback interface table and state
 
 
+
 Show the help and display all the active configuration
         itd-ctl -a
 
